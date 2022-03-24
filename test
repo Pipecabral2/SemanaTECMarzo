@@ -27,15 +27,15 @@ Usar un emoji
 ![HOLA Pages](hola.png)
 
 ## Lista 
-- Hola
-- Adios
-- Buenos días
+- yo
+- Mero
+- Petatero
 
 ## Lista Ordenada
-1. H
-2. O
+1. J
+2. A
 3. L
-4. A
+4. O
 
 ## Ocultar el contenido 
 
@@ -63,16 +63,10 @@ geojson
       "type": "Feature",
       "properties": {},
       "geometry": {
-        "type": "LineString",
+        "type": "Point",
         "coordinates": [
-          [
-            -106.2158203125,
-            28.815799886487298
-          ],
-          [
-            -99.68994140625,
-            25.433353427832156
-          ]
+          -100.29919981956482,
+          25.656217617859166
         ]
       }
     }
