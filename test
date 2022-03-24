@@ -1,29 +1,80 @@
-# Encabezados
-Para crear un encabezado, agrega uno a seis símbolos # antes del encabezado del texto.
+# Luis Fernando Cabral Fong
+# ITC 4to semestre
+# Semanatec
 # Encabezado grande
 ## Encabezado mediano
-### Encabezado pequeño
-Puedes indicar énfasis con texto en negritas, itálicas o tachadas en los campos de comentario
+# Encabezado pequeño
+Puedes indicar enfasis on texto en negritas, italicas o tachado o en los campos de comentarioo archivo .md.
+
 Estilo
-- Negrita ** ** **Este texto está en negrita**
-Cursiva * * 0
-*Este texto está en cursiva*
-Tachado ~~
-~~Este texto está equivocado~~
-Cursiva en negrita y anidada
-Todo en negrita y cursiva *** ***
-**Este texto es
-extremadamente importante**
-***Todo este texto es importante***
-# Usar emojis inicia escribiendo: + letra escoges el emoji que quieres
-&
-¿Quién pue
-Para: Todo
-Escribir mel
-*
-# Cita de Texto
-> ITESM
-# Enlace
-[GitHub Pages](https://pages.github.com/
+- Negrita * * *Este texto esta en negrita*
+- Cursiva * * o _ _ Este texto esta en cursiva
+- Tachado ~ ~ ~ESTE TEXTO ESTA TACHADO~
+- Cursiva en negrita y anidado * * y _ _ *Este texto es extremadamente importante
+- Todo en negrita y cursiva **todo es importante*
+
+Usar un emoji
+
+😆
+
+[hola](https://youtu.be/mlBZeNKCbSI)
+
+## cita de texto
+> Aqui se cita un texto
+
 # Imagen
-!IGitHubPages](https://tec.mx/sites/default/files/repositorio/Home/tec-de-monterrey-newsroom.jpg)
+
+![HOLA Pages](hola.png)
+
+## Lista 
+- Hola
+- Adios
+- Buenos días
+
+## Lista Ordenada
+1. H
+2. O
+3. L
+4. A
+
+## Ocultar el contenido 
+
+<!-- jbdciwbc -->
+
+## TABLAAA
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+## TASK LIST
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+## Mapa
+geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.2158203125,
+            28.815799886487298
+          ],
+          [
+            -99.68994140625,
+            25.433353427832156
+          ]
+        ]
+      }
+    }
+  ]
+}
